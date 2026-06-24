@@ -15,3 +15,6 @@ __pycache__/
 # スキャン出力
 report.json
 *.report.json
+
+# Poetry/ビルドが生成する一時ファイル
+*.tmp.*
